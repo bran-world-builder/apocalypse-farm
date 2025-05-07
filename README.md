@@ -1,5 +1,5 @@
 <h1>Apocalypse Farm</h1>
-Returning humanity from the brink of extinctionm
+Returning humanity from the brink of extinction
 <h2>Description</h2>
 This is a 3D farming life simulation game inspired by titles like Stardew Valley and Fallout. Players will manage crops, customize their farm, and engage with a dynamic world that evolves based on the players actions and the in game seasonal clock. I co-led this project, designing many of the core systems as well as the overall game concept, including the story and tone.
 <br />
